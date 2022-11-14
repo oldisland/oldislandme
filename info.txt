@@ -1,0 +1,32 @@
+{"appnews":
+{"appid":252490,
+"newsitems":[
+{"gid":"4732747437202804896",
+"title":"OLD ISLAND › 217 DevBlog › AntiCheat",
+"url":"https://vk.com/oldislandme",
+"is_external_url":true,
+"author":"OLD ISLAND › 217 DevBlog › AntiCheat",
+"contents":"[img]https://cdn.discordapp.com/attachments/1012501732850413599/1041731397456506890/OLDISLANDPENIS332.png[/img]
+ 
+ 
+                    — Пиратский сервер OLD ISLAND › 217 DevBlog › AntiCheat
+                        Карта мира: Custom Barren
+                        Размер карты: 2900
+                        Магазин: SOON
+                        Вконтакте: vk.com/oldislandme
+                        Дискорд: discord.gg/qmRDU2XcT8
+
+                      — Рейты сервера:
+                        Ресурсы х3 
+                        Компоненты х3 
+
+                      — Игра в команде до 4 человек
+
+                   Приятной игры на проекте OLD ISLAND!",
+"feedlabel":"Community Announcements",
+"date":1661183189,
+"feedname":"steam_community_announcements",
+"feed_type":1,
+"appid":252490
+}],"count":870}
+}
